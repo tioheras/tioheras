@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hello World, I'm Heron de Carli. 🌝
 
-<!--
-**tioheras/tioheras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Hello World, my name is Heron de Carli.
 
-Here are some ideas to get you started:
+⚙️ Environmental engineer with 10 years of experience in food industry, currently in a career transition with a focus on backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💾 Graduated in Environmental Engineering at the State University of Santa Catarina and currently pursuing a degree in Computer Science.
+
+🌳 My current goal is to become a developer with focus on backend developmnent.
+
+🐈 I am currently seeking junior developer position opportunities.
+
+📫 U can find me at:
+
+    💬 +55 (49) 9 9956-5340;
+    ✉️ dev.heroncarli@gmail.com
+    📖 https://tioheras.github.io/portfolio-Heron-JS/
+    📘 https://www.linkedin.com/in/heron-augusto-de-carli-630693181/
+
+
+
+## My Stack
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="80px"/>
+
